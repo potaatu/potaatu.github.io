@@ -1,1 +1,1 @@
-This is a website for taking Personal Notes of Mine.
+This is a personal website for my daily needs.
